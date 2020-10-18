@@ -20,6 +20,7 @@ color15 =              '#ffffea'
 selection_foreground = foreground
 selection_background = color10
 cursor =               color11
+cursor =               color12
 -- cursor =               '#fee92e' -- from material.lua color11
 -- cursor =               '#90ece9' -- from vis acme.lua
 
